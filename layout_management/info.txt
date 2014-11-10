@@ -1,0 +1,6 @@
+Type of Sizers:
+    wx.BoxSizer
+    wx.StaticBoxSizer
+    wx.GridSizer
+    wx.FlexGridSizer
+    wx.GridBagSizer
