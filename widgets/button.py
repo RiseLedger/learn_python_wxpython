@@ -1,5 +1,6 @@
 import wx
 
+
 class Example(wx.Frame):
 
     def __init__(self, *args, **kw):
@@ -24,7 +25,6 @@ class Example(wx.Frame):
 
 
 def main():
-
     ex = wx.App()
     Example(None)
     ex.MainLoop()
